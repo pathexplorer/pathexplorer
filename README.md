@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/64ea3f88b128dce3cb7b6ad8?variant=dark&roadmaps=sql)](https://roadmap.sh)
+
 <!--
 **pathexplorer/pathexplorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
