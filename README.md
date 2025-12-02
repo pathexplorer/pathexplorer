@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Stanislav profile views](https://u8views.com/api/v1/github/profiles/77250594/views/day-week-month-total-count.svg)](https://u8views.com/github/pathexplorer)
 
 <!--
 **pathexplorer/pathexplorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
