@@ -23,7 +23,7 @@ Stanislav is the creator of:
   - [Medium.com](https://medium.com/@nabatnikov.stas)
   - [Dev.to](https://dev.to/pathexplorer)
 - **Custom Tooling & Scripting:** Active builder of lightweight, specialized utilities to bridge gaps in existing software. I design custom micro-tools to automate manual tasks, control resource-heavy processes, and extend platforms with missing features.
-  - [0-shredder with pauses for old HDD](https://github.com/pathexplorer/hdd_shred),
+  - [0-shredder with pauses for old HDD](https://github.com/pathexplorer/hdd_shred)
   - [Convert Gemini Web chats to Markdown for a knowledge base](https://github.com/pathexplorer/Save_chats_from_web_gemini)
 - **Modular Pipeline Design:** Experienced in architecting decoupled, highly reusable codebases. I package core cloud integration components and boilerplate logic into standalone repositories to accelerate multi-project deployments and maintain a single source of truth.
   -  [Custom package for use with my GCP projects](https://github.com/pathexplorer/gcp_actions)
@@ -33,3 +33,4 @@ Stanislav is the creator of:
   - [Bash script for deploying the parent project at a clean CGP project from person Google account](https://github.com/pathexplorer/BigBikeData/tree/master/power_core/docs/scripts/startup)
 - **Pragmatic AI Engineering:** Experienced in direct API integration with leading LLM providers. I prioritize pay-as-you-go API architectures to balance cost-efficiency with model performance, gaining a deep understanding of model limits, context-window constraints, and prompt formatting.
   - [Processing hybrid PDF files consisting of both digital PDFs and scans](https://github.com/pathexplorer/mistral_ocr_processing)
+- **Operational Telemetry & Analytics:** Designing systems around the philosophy that code is cheap, but execution data is priceless. I focus on building robust logging, tracing, and metric collection pipelines to turn raw application runtimes into valuable analytical assets.
