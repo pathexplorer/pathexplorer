@@ -1,7 +1,14 @@
 ### Hi there 👋
-My name is Stanislav Nabatnikov
+My name is Stanislav Nabatnikov. I'm a Data Engineer
 
-- 🔭 I’m currently working on a multifunctional cloud pipeline for Garmin FIT file processing 
+
+### Bio links
+  - GitHub: https://github.com/pathexplorer
+  - LinkedIn: https://www.linkedin.com/in/stanislav-nabatnikov
+  - X: https://x.com/wayresearcher
+
+
+### 🔭 I’m currently working on a multifunctional cloud pipeline for Garmin FIT file processing 
 <!--
 **pathexplorer/pathexplorer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
