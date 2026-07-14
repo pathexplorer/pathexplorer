@@ -29,6 +29,7 @@ Stanislav is the creator of:
   -  [Custom package for use with my GCP projects](https://github.com/pathexplorer/gcp_actions)
 - **Production-Aligned Development:** Operating in a native Linux (POSIX) environment, which guarantees 100% compatibility for containerized workflows (Docker/Podman) and automation scripts without the translation layers or hypervisors found on macOS/Windows.
 - **System Automation:** Skilled in leveraging native Linux tooling (systemd units, journalctl, bash scripting, and process signals) to build robust, predictable automation workflows
+  - [Install all neccesary apps for clean Kubuntu](https://github.com/pathexplorer/clean-ubuntu-setup) 
 - **Environment Replication:** Experienced in turning step-by-step setup guides into fully automated, single-run Bash scripts parameterized with system environment variables for zero-friction environment provisioning.
   - [Bash script for deploying the parent project at a clean CGP project from person Google account](https://github.com/pathexplorer/BigBikeData/tree/master/power_core/docs/scripts/startup)
 - **Pragmatic AI Engineering:** Experienced in direct API integration with leading LLM providers. I prioritize pay-as-you-go API architectures to balance cost-efficiency with model performance, gaining a deep understanding of model limits, context-window constraints, and prompt formatting.
