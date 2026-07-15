@@ -5,8 +5,8 @@ My name is Stanislav Nabatnikov. I'm a Data Engineer
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-stanislav--nabatnikov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-nabatnikov/)
 [![X Badge](https://img.shields.io/badge/wayresearcher-0e76a8?style=flat&labelColor=000000&logo=x&logoColor=white)](https://x.com/wayresearcher/)
 
-### Skills and specialties
-Stanislav is the creator of:
+### 🛠️ Sandbox & Hands-On Engineering
+These two featured projects are my personal sandboxes for semi-automated development. While I leverage automation to speed up routine setups, I personally design and integrate every new feature. Every decision—whether a success or a debugged mistake—serves as a practical learning ground, sharpening my skills in both development and Cloud Operations (Ops).
  - [Multifunctional cloud pipeline for Garmin FIT file processing](https://github.com/pathexplorer/BigBikeData)
  - [Listener of telegram chats for certain keywords by personal account](https://github.com/pathexplorer/telegram_parcer)
 
