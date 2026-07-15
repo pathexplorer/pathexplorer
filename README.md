@@ -11,6 +11,19 @@ Stanislav is the creator of:
  - [Listener of telegram chats for certain keywords by personal account](https://github.com/pathexplorer/telegram_parcer)
 
 ### Tech Stack & Specialities
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) 
+
+
+ 	
+
+
+
 - **Data Engineering:** Python, SQL, ETL pipeline development
 - **Cloud Platform:** Google Cloud Platform (GCP)
 - **AI & Automation:** OpenCode, custom LLM integration, agentic workflows
