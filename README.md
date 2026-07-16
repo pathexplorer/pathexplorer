@@ -18,11 +18,6 @@ These two featured projects are my personal sandboxes for semi-automated develop
 ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) 
 
-
- 	
-
-
-
 - **Data Engineering:** Python, SQL, ETL pipeline development
 - **Cloud Platform:** Google Cloud Platform (GCP)
 - **AI & Automation:** OpenCode, custom LLM integration, agentic workflows
@@ -32,8 +27,7 @@ These two featured projects are my personal sandboxes for semi-automated develop
 ### Values
 - **Documentation-driven development:** Every solution I build is backed by structured, practical notes to streamline future maintenance and ensure seamless knowledge sharing within the team.
 - **Technical Writing & System Auditing:** Passionate about analyzing software architecture and sharing findings with the global developer community. I write and publish analytical articles on Medium and Dev.to, breaking down architectural flaws and edge-case behaviors in popular platforms to advocate for better system design.
-  - [Medium.com](https://medium.com/@nabatnikov.stas)
-  - [Dev.to](https://dev.to/pathexplorer)
+  - [Сheck out my articles on Medium.com](https://medium.com/@nabatnikov.stas)
 - **Knowledge Base Ownership:** Proactive in establishing and maintaining structured corporate wikis. I systematically analyze operational processes, implement improvements, and codify them into reusable documentation to ensure seamless team collaboration and onboarding.
 - **Custom Tooling & Scripting:** Active builder of lightweight, specialized utilities to bridge gaps in existing software. I design custom micro-tools to automate manual tasks, control resource-heavy processes, and extend platforms with missing features.
   - [0-shredder with pauses for old HDD](https://github.com/pathexplorer/hdd-shred)
