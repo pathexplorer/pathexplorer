@@ -18,7 +18,7 @@ These two featured projects are my personal sandboxes for semi-automated develop
 ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) 
 
-- **Data Engineering:** Python, SQL, ETL pipeline development
+- **Data Engineering:** Python, SQL, ETL/ELT pipeline development
 - **Cloud Platform:** Google Cloud Platform (GCP)
 - **AI & Automation:** OpenCode, custom LLM integration, agentic workflows
 - **DevOps & OS:** Linux (Kubuntu/KDE), Bash scripting, Podman & Docker containerization
