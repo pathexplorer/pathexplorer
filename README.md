@@ -21,7 +21,7 @@ These two featured projects are my personal sandboxes for semi-automated develop
 - **Data Engineering:** Python, SQL, ETL/ELT pipeline development
 - **Cloud Platform:** Google Cloud Platform (GCP)
 - **AI & Automation:** OpenCode, custom LLM integration, agentic workflows
-- **DevOps & OS:** Linux (Kubuntu/KDE), Bash scripting, Podman & Docker containerization
+- **DevOps & OS:** Linux (Kubuntu/KDE), Bash scripting, Docker/Podman & containerization
 - **Technical Writing:** Developer documentation, knowledge bases, and wiki management
 
 ### Values
