@@ -20,7 +20,7 @@ These two featured projects are my personal sandboxes for semi-automated develop
 
 - **Data Engineering:** Python, SQL, ETL/ELT pipeline development
 - **Cloud Platform:** Google Cloud Platform (GCP)
-- **AI & Automation:** OpenCode, custom LLM integration, agentic workflows
+- **AI & Automation:** OpenCode, CrewAI, custom LLM integration, agentic workflows 
 - **DevOps & OS:** Linux (Kubuntu/KDE), Bash scripting, Docker/Podman & containerization
 - **Technical Writing:** Developer documentation, knowledge bases, and wiki management
 
@@ -39,6 +39,7 @@ These two featured projects are my personal sandboxes for semi-automated develop
   - [Install all necessary apps for clean Kubuntu](https://github.com/pathexplorer/clean-ubuntu-setup) 
 - **Environment Replication:** Experienced in turning step-by-step setup guides into fully automated, single-run Bash scripts parameterized with system environment variables for zero-friction environment provisioning.
   - [Bash script for deploying the parent project at a clean CGP project from a personal Google account](https://github.com/pathexplorer/BigBikeData/tree/master/power_core/docs/scripts/startup)
-- **Pragmatic AI Engineering:** Experienced in direct API integration with leading LLM providers. I prioritize pay-as-you-go API architectures to balance cost-efficiency with model performance, gaining a deep understanding of model limits, context-window constraints, and prompt formatting.
+- **Pragmatic AI Engineering:** Experienced in direct API integration with leading LLM providers. I prioritize pay-as-you-go API architectures to balance cost-efficiency with model performance, gaining a deep understanding of model limits, context-window constraints, and prompt formatting. 
+  - [Local medical-consultative multi-agent pipeline on two independent models](https://github.com/pathexplorer/medical-consultant)
   - [Processing hybrid PDF files consisting of both digital PDFs and scans](https://github.com/pathexplorer/mistral-ocr-processing)
 - **Operational Telemetry & Analytics:** Designing systems around the philosophy that code is cheap, but execution data is priceless. I focus on building robust logging, tracing, and metric collection pipelines to turn raw application runtimes into valuable analytical assets.
