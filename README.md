@@ -35,6 +35,7 @@ These two featured projects are my personal sandboxes for semi-automated develop
 - **Modular Pipeline Design:** Experienced in architecting decoupled, highly reusable codebases. I package core cloud integration components and boilerplate logic into standalone repositories to accelerate multi-project deployments and maintain a single source of truth.
   -  [Custom package for use with my GCP projects](https://github.com/pathexplorer/gcp_actions)
 - **Production-Aligned Development:** Operating in a native Linux (POSIX) environment, which guarantees 100% compatibility for containerized workflows (Docker/Podman) and automation scripts without the translation layers or hypervisors found on macOS/Windows.
+  - [Autonomous isolated code factory (5 roles) based on OpenCode](https://github.com/pathexplorer/agentic-opencode-factory)
 - **System Automation:** Skilled in leveraging native Linux tooling (systemd units, journalctl, bash scripting, and process signals) to build robust, predictable automation workflows
   - [Install all necessary apps for clean Kubuntu](https://github.com/pathexplorer/clean-ubuntu-setup) 
 - **Environment Replication:** Experienced in turning step-by-step setup guides into fully automated, single-run Bash scripts parameterized with system environment variables for zero-friction environment provisioning.
