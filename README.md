@@ -3,6 +3,7 @@ My name is Stanislav Nabatnikov. I'm a Data Engineer
 
 ### Bio links
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-stanislav--nabatnikov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-nabatnikov/)
+[![Medium](https://img.shields.io/badge/Medium-Articles-black?logo=medium&logoColor=white)](https://medium.com/@nabatnikov.stas)
 [![X Badge](https://img.shields.io/badge/wayresearcher-0e76a8?style=flat&labelColor=000000&logo=x&logoColor=white)](https://x.com/wayresearcher/)
 
 ### 🛠️ Sandbox & Hands-On Engineering
