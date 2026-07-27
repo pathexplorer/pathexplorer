@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Stanislav Nabatnikov. I'm a Data Engineer
+My name is Stanislav Nabatnikov. I'm an **AI Integration & Data Engineer**.
+
+I build code-first AI automation workflows, agentic pipelines, and resilient serverless ETL systems backed by a solid Data Engineering foundation on Google Cloud Platform.
 
 ### Bio links
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-stanislav--nabatnikov-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stanislav-nabatnikov/)
@@ -17,13 +19,15 @@ These two featured projects are my personal sandboxes for semi-automated develop
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Google_Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) 
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) 
 
-- **Data Engineering:** Python, PostgreSQL, ETL/ELT pipeline development
-- **Cloud Platform:** Google Cloud Platform (GCP)
-- **AI & Automation:** OpenCode, CrewAI, custom LLM integration, agentic workflows 
-- **DevOps & OS:** Linux Bash scripting, Docker/Podman & containerization
-- **Technical Writing:** Developer documentation, knowledge bases, and wiki management
+- **AI & Agentic Workflows**: 
+Multi-agent architectures (CrewAI, OpenCode), LLM API integration (OpenAI, Claude, Mistral), RAG & Prompt Engineering.
+- **Data Engineering & Pipelines**: 
+Python (Asyncio/OOP), PostgreSQL/PostGIS, Firestore, ETL/ELT pipeline design, Idempotency & CDC patterns.
+- **Cloud & DevOps (GCP)**: 
+Cloud Functions, Cloud Run, Pub/Sub, Secret Manager, Docker/Podman, Linux (POSIX) system scripting, Bash automation.
+- **Technical Writing**: 
+Developer documentation, architecture breakdowns, and knowledge base ownership.
 
 ### Values
 - **Documentation-driven development:** Every solution I build is backed by structured, practical notes to streamline future maintenance and ensure seamless knowledge sharing within the team.
